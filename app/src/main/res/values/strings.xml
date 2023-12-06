@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">karaoke</string>
+    <string name="title_activity_lyrics">LyricsActivity</string>
+    <string name="title_activity_song_selector">SongSelector</string>
+</resources>
